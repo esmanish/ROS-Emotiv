@@ -6,7 +6,7 @@ This package is based on [Emokit](https://github.com/openyou/emokit) by The Open
 
 ## Prerequisits
 
-* hidapi - https://github.com/signal11/hidapi
+* hidapi - https://github.com/esmanish/hidapi
 
 ## Installation
 Change directory to your ROS workspace and then type the following:
